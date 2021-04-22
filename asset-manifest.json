@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brawl-stars-power-points-calculator/static/css/main.57fd0221.chunk.css",
+    "main.js": "/brawl-stars-power-points-calculator/static/js/main.0c53fef2.chunk.js",
+    "main.js.map": "/brawl-stars-power-points-calculator/static/js/main.0c53fef2.chunk.js.map",
+    "runtime-main.js": "/brawl-stars-power-points-calculator/static/js/runtime-main.c67ff312.js",
+    "runtime-main.js.map": "/brawl-stars-power-points-calculator/static/js/runtime-main.c67ff312.js.map",
+    "static/js/2.d94e7e2d.chunk.js": "/brawl-stars-power-points-calculator/static/js/2.d94e7e2d.chunk.js",
+    "static/js/2.d94e7e2d.chunk.js.map": "/brawl-stars-power-points-calculator/static/js/2.d94e7e2d.chunk.js.map",
+    "static/js/3.b27b3977.chunk.js": "/brawl-stars-power-points-calculator/static/js/3.b27b3977.chunk.js",
+    "static/js/3.b27b3977.chunk.js.map": "/brawl-stars-power-points-calculator/static/js/3.b27b3977.chunk.js.map",
+    "index.html": "/brawl-stars-power-points-calculator/index.html",
+    "static/css/main.57fd0221.chunk.css.map": "/brawl-stars-power-points-calculator/static/css/main.57fd0221.chunk.css.map",
+    "static/js/2.d94e7e2d.chunk.js.LICENSE.txt": "/brawl-stars-power-points-calculator/static/js/2.d94e7e2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67ff312.js",
+    "static/js/2.d94e7e2d.chunk.js",
+    "static/css/main.57fd0221.chunk.css",
+    "static/js/main.0c53fef2.chunk.js"
+  ]
+}
