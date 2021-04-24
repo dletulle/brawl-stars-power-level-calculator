@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brawl-stars-power-level-calculator/static/css/main.88940018.chunk.css",
-    "main.js": "/brawl-stars-power-level-calculator/static/js/main.f65043be.chunk.js",
-    "main.js.map": "/brawl-stars-power-level-calculator/static/js/main.f65043be.chunk.js.map",
+    "main.css": "/brawl-stars-power-level-calculator/static/css/main.a21153ab.chunk.css",
+    "main.js": "/brawl-stars-power-level-calculator/static/js/main.72d3e64e.chunk.js",
+    "main.js.map": "/brawl-stars-power-level-calculator/static/js/main.72d3e64e.chunk.js.map",
     "runtime-main.js": "/brawl-stars-power-level-calculator/static/js/runtime-main.199399e6.js",
     "runtime-main.js.map": "/brawl-stars-power-level-calculator/static/js/runtime-main.199399e6.js.map",
     "static/js/2.89bfb8b3.chunk.js": "/brawl-stars-power-level-calculator/static/js/2.89bfb8b3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a2dffa08.chunk.js": "/brawl-stars-power-level-calculator/static/js/3.a2dffa08.chunk.js",
     "static/js/3.a2dffa08.chunk.js.map": "/brawl-stars-power-level-calculator/static/js/3.a2dffa08.chunk.js.map",
     "index.html": "/brawl-stars-power-level-calculator/index.html",
-    "static/css/main.88940018.chunk.css.map": "/brawl-stars-power-level-calculator/static/css/main.88940018.chunk.css.map",
+    "static/css/main.a21153ab.chunk.css.map": "/brawl-stars-power-level-calculator/static/css/main.a21153ab.chunk.css.map",
     "static/js/2.89bfb8b3.chunk.js.LICENSE.txt": "/brawl-stars-power-level-calculator/static/js/2.89bfb8b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.199399e6.js",
     "static/js/2.89bfb8b3.chunk.js",
-    "static/css/main.88940018.chunk.css",
-    "static/js/main.f65043be.chunk.js"
+    "static/css/main.a21153ab.chunk.css",
+    "static/js/main.72d3e64e.chunk.js"
   ]
 }
